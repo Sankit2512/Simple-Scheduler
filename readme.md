@@ -27,7 +27,7 @@ On the last day we identified a logical bug in the program and we had to spend t
 
 # CONTRIBUTORS :
 1. Tizil Sharma (2022543)
-2. Navyam Garg (2022317)
+2. Sankit (2022446)
 
 
 # REFERENCES : 
